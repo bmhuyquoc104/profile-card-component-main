@@ -93,13 +93,13 @@ img{
     gap: 2em;
 }
 
-.card__social__media h4{
+.card__social__media h3{
     color:hsl(0, 0%, 59%);
     font-size: clamp(0.5rem,1.2vh,1rem);
     letter-spacing: 1.5px;
 }
 
-.card__2 h4{
+.card__2 h3{
     text-align: center;
 
 }
