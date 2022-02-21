@@ -52,6 +52,7 @@ main{
     background-color: white;
     width: max(20%, 300px);
     border-radius:10px 10px 10px 10px;
+    transform: scale(1.2);
 }
 
 .card__top{
